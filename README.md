@@ -1,5 +1,9 @@
 🚗 GTA 6 Frontend Landing Page A visually stunning and responsive landing page inspired by the upcoming GTA 6 game. Built using modern web technologies, this page is designed to capture the excitement and aesthetic of the Grand Theft Auto universe.
+
 ![image alt](https://github.com/Pbrhaasn2002/gta6/blob/a94ad25bc2d27f9a47c7f9d0261e875d91b14f9b/1.PNG)
+
+![image alt](https://github.com/Pbrhaasn2002/gta6/blob/a94ad25bc2d27f9a47c7f9d0261e875d91b14f9b/2.PNG)
+
 
 
 # React + Vite
